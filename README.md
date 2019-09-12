@@ -1,2 +1,2 @@
 # flexie-crm
-Flexie CRM Scipts &amp; Workflows
+Flexie CRM SQL Scipts &amp; Workflows
